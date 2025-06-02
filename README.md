@@ -22,6 +22,8 @@ Atuo com dados há alguns anos, apoiando áreas estratégicas com dashboards, KP
 
 ## 📌 Projetos realizados e em desenvolvimento
 - [API para Registro de Produtos](https://github.com/LucasRios51/api-registro-produtos)
+- [Pipeline Preço Commodities](https://github.com/LucasRios51/precos-Commodities)
+- [Criação de Bot de Taxa de Conversão de Moedas no Databricks](https://github.com/LucasRios51/databricks-taxas-conversao)
 
 ## 🛠️ Tecnologias que venho explorando
 
