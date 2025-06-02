@@ -20,6 +20,9 @@ Atuo com dados há alguns anos, apoiando áreas estratégicas com dashboards, KP
 - Projetos explorando Databricks e plataformas em nuvem
 - Documentações práticas de aprendizados técnicos
 
+## 📌 Projetos realizados e em desenvolvimento
+- [API para Registro de Produtos](https://github.com/LucasRios51/api-registro-produtos)
+
 ## 🛠️ Tecnologias que venho explorando
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
